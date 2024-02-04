@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 30%;
+    height: 100vh;
+    background-color: goldenrod;
+    margin: auto;
+    margin-top: 30px;
+    border: solid 5px darkblue;
+}
+main h2{
+    text-align: center;
+    margin-top: 40px;
+}
+img{
+    width: 450px;
+    height: 300px;
+}
+.ani-image{
+    width: 85%;
+    margin: auto;
+    margin-top: 50px;
+    border: solid 5px darkblue;
+}
+section{
+    margin: 50px;
+}
+.first{
+    font-size: 20px;
+    font-family:cursive;
+    margin-bottom: 20px;
+}
+article{
+    margin: 20px 10px;
+}
+article span{
+    font-size: 20px;
+    font-weight: bold;
+}
+ p{
+    font-size: 20px;
+}
+#about{
+    margin: 10px 0;
+}
